@@ -72,6 +72,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 ### API Development
 
 - [api-contract-tester](https://www.agensi.io/skills/api-contract-tester) — Tests API endpoints against their OpenAPI/Swagger specs.
+- [x-twitter-scraper](https://skills.sh/xquik-dev/x-twitter-scraper/x-twitter-scraper) — X data API skill for tweet search, profile data, media downloads, webhooks, and MCP workflows. Open source; Xquik account required.
 - More API skills on [Agensi API Development](https://www.agensi.io/skills/api-development).
 
 ### Security
