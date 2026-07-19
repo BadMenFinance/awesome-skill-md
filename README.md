@@ -73,6 +73,10 @@ This list covers the best skills, resources, and tools across the ecosystem.
 
 - [api-contract-tester](https://www.agensi.io/skills/api-contract-tester) — Tests API endpoints against their OpenAPI/Swagger specs.
 - More API skills on [Agensi API Development](https://www.agensi.io/skills/api-development).
+- [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper/tree/master/skills/x-twitter-scraper) - Xquik SKILL.md for X (Twitter) data workflows, REST API setup, MCP setup, monitoring, webhooks, and approval-gated actions. Free skill; Xquik API key required.
+
+Xquik is an independent third-party service. Not affiliated with X Corp.
+"Twitter" and "X" are trademarks of X Corp.
 
 ### Security
 
@@ -150,7 +154,7 @@ Describe how the agent should structure its output.
 ## Tools
 
 - [Agensi AI Search](https://www.agensi.io/search) — Describe what you need and find matching skills.
-- [Agensi MCP Server](https://mcp.agensi.io) — Connect your agent to the full skill catalog via MCP. Skills are loaded on demand.
+- [Agensi MCP Server](https://www.agensi.io/mcp) - Connect your agent to the full skill catalog via MCP. Skills are loaded on demand.
 - [Agensi Skill Request Board](https://www.agensi.io/requests) — Request skills that don't exist yet. Creators build to community demand.
 
 ## Compatible Agents
