@@ -51,6 +51,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 
 ### Documentation
 
+- [humanize-writing](https://github.com/agentbody/skills/blob/main/skills/humanize-writing/SKILL.md) — Rewrite mechanical text naturally while preserving meaning. Free Skill; API key required.
 - [readme-generator](https://www.agensi.io/skills/readme-generator) — Scans your project and generates a complete README with installation, usage, configuration, and contributing sections. Free.
 - More documentation skills on [Agensi Documentation](https://www.agensi.io/skills/documentation).
 
