@@ -62,6 +62,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 
 ### Productivity
 
+- [competitor-monitoring](https://github.com/agentbody/skills/blob/main/skills/competitor-monitoring/SKILL.md) — Free skill for researching competitor feedback, alternatives, and market reactions; API key required.
 - [skill-router](https://www.agensi.io/skills/skill-router) — Routes tasks to the right skill automatically based on context.
 - More productivity skills on [Agensi Productivity](https://www.agensi.io/skills/productivity).
 
