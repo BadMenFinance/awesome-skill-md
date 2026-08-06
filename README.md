@@ -52,7 +52,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 ### Documentation
 
 - [readme-generator](https://www.agensi.io/skills/readme-generator) — Scans your project and generates a complete README with installation, usage, configuration, and contributing sections. Free.
-- [tiktok-transcript](https://github.com/agentbody/skills/blob/main/skills/tiktok-transcript/SKILL.md) — Extract TikTok captions or explicitly transcribe video audio. Free Skill; API key required.
+- [tiktok-transcript](https://github.com/agentbody/skills/blob/main/skills/tiktok-transcript/SKILL.md) — Free skill for extracting TikTok captions or explicitly transcribing video audio; API key required.
 - More documentation skills on [Agensi Documentation](https://www.agensi.io/skills/documentation).
 
 ### Git Automation
