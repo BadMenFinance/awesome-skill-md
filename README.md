@@ -62,6 +62,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 
 ### Productivity
 
+- [people-data](https://github.com/agentbody/skills/blob/main/skills/people-data/SKILL.md) — Find professional profiles and public business contact data. Free Skill; API key required.
 - [skill-router](https://www.agensi.io/skills/skill-router) — Routes tasks to the right skill automatically based on context.
 - More productivity skills on [Agensi Productivity](https://www.agensi.io/skills/productivity).
 
