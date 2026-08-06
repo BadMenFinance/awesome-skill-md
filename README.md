@@ -51,7 +51,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 
 ### Documentation
 
-- [document-parsing](https://github.com/agentbody/skills/blob/main/skills/document-parsing/SKILL.md) — Parse HTTPS documents into Markdown and structured content. Free Skill; API key required.
+- [document-parsing](https://github.com/agentbody/skills/blob/main/skills/document-parsing/SKILL.md) — Free skill for parsing HTTPS documents into Markdown and structured content; API key required.
 - [readme-generator](https://www.agensi.io/skills/readme-generator) — Scans your project and generates a complete README with installation, usage, configuration, and contributing sections. Free.
 - More documentation skills on [Agensi Documentation](https://www.agensi.io/skills/documentation).
 
