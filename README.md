@@ -63,6 +63,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 ### Productivity
 
 - [skill-router](https://www.agensi.io/skills/skill-router) — Routes tasks to the right skill automatically based on context.
+- [find-leads](https://github.com/agentbody/skills/blob/main/skills/find-leads/SKILL.md) — Free skill for finding prospects and buying signals in public social content; API key required.
 - More productivity skills on [Agensi Productivity](https://www.agensi.io/skills/productivity).
 
 ### Data Engineering
