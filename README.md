@@ -20,6 +20,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
   - [API Development](#api-development)
   - [Security](#security)
 - [Marketplaces](#marketplaces)
+- [Libraries](#libraries)
 - [Guides & Tutorials](#guides--tutorials)
 - [Format & Reference](#format--reference)
 - [Tools](#tools)
@@ -82,6 +83,10 @@ This list covers the best skills, resources, and tools across the ecosystem.
 ## Marketplaces
 
 - [Agensi](https://www.agensi.io) — Curated marketplace for SKILL.md skills. One-time purchase, security-scanned, 80/20 creator revenue split. Supports Claude Code, Codex CLI, Cursor, and 20+ agents.
+
+## Libraries
+
+- [Solaris Dev Shop](https://github.com/Shaisolaris/solaris-dev-shop) — Free MIT library of SKILL.md files with a deterministic intake router.
 
 ## Guides & Tutorials
 
