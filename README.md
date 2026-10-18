@@ -43,11 +43,14 @@ This list covers the best skills, resources, and tools across the ecosystem.
 - [env-doctor](https://www.agensi.io/skills/env-doctor) — Diagnoses why your project won't start. Checks runtime versions, dependencies, environment variables, database connections, and port conflicts. Free.
 - [Best DevOps Skills for Claude Code](https://www.agensi.io/learn/best-claude-code-devops-skills) — Roundup of DevOps and deployment skills.
 - More DevOps skills on [Agensi DevOps & Deployment](https://www.agensi.io/skills/devops-deployment).
+- [github-repo-due-diligence-lite](https://github.com/NenadZivotic/lite-agent-skills/tree/main/github-repo-due-diligence-lite) — Repo health: stars, last push, license, archived. Free.
+- [npm-package-health-lite](https://github.com/NenadZivotic/lite-agent-skills/tree/main/npm-package-health-lite) — Package publish age, deprecation, license check. Free.
 
 ### Frontend & Design
 
 - [frontend-design](https://www.agensi.io/skills/frontend-design) — Component generation, CSS styling, accessibility checks, and design system workflows.
 - [Best Frontend Skills for Claude Code](https://www.agensi.io/learn/best-claude-code-frontend-skills) — Roundup of frontend development skills.
+- [seo-quick-audit-lite](https://github.com/NenadZivotic/lite-agent-skills/tree/main/seo-quick-audit-lite) — Offline on-page SEO audit of local HTML files. Free.
 
 ### Documentation
 
@@ -64,6 +67,8 @@ This list covers the best skills, resources, and tools across the ecosystem.
 
 - [skill-router](https://www.agensi.io/skills/skill-router) — Routes tasks to the right skill automatically based on context.
 - More productivity skills on [Agensi Productivity](https://www.agensi.io/skills/productivity).
+- [meta-prompt-architect-lite](https://github.com/NenadZivotic/lite-agent-skills/tree/main/meta-prompt-architect-lite) — Task description to prompt template scaffold. Free.
+- [cold-email-sequence-lite](https://github.com/NenadZivotic/lite-agent-skills/tree/main/cold-email-sequence-lite) — ICP brief to 2-touch outreach skeleton. Free.
 
 ### Data Engineering
 
@@ -78,6 +83,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 
 - [security-audit](https://www.agensi.io/skills/security-audit) — OWASP Top 10 scanning, secret detection, and authentication review.
 - [dependency-auditor](https://www.agensi.io/skills/dependency-auditor) — Checks dependencies for known vulnerabilities.
+- [secret-leak-scan-lite](https://github.com/NenadZivotic/secret-leak-scan-lite) — Static scan for leaked credentials, masked output only. Free.
 
 ## Marketplaces
 
