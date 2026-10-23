@@ -63,6 +63,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 ### Productivity
 
 - [skill-router](https://www.agensi.io/skills/skill-router) — Routes tasks to the right skill automatically based on context.
+- [syncbook](https://github.com/theguysaccount/syncbook-agent) — Prepare a human-approved collaboration profile and find reciprocal collaborators through Syncbook. Free.
 - More productivity skills on [Agensi Productivity](https://www.agensi.io/skills/productivity).
 
 ### Data Engineering
