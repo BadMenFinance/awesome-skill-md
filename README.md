@@ -93,6 +93,7 @@ This list covers the best skills, resources, and tools across the ecosystem.
 
 ### Installation
 
+- [agent-qa Skills and MCP Setup](https://vostride.com/docs/agent-qa/coding-agents) — Official setup for four testing skills covering authoring, failure triage, repair, and reusable knowledge.
 - [How to Install Claude Skills from GitHub](https://www.agensi.io/learn/how-to-install-claude-skills-from-github) — Clone, verify, and troubleshoot GitHub-hosted skills.
 - [How to Add Skills to Claude Code CLI](https://www.agensi.io/learn/how-to-add-skills-claude-code-cli) — Command-line installation guide.
 - [Claude Code Skills Folder Location & Setup](https://www.agensi.io/learn/claude-code-skills-folder-location-setup) — Directory structure and organization.
